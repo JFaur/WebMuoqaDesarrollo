@@ -1,0 +1,122 @@
+﻿@using System.Data
+@{
+    ViewData["Title"] = "Inicio";
+    DataTable service = new DataTable();
+    if (ViewBag.Data != null)
+        service = ViewBag.Data;
+
+    int limit = 0;
+    //Calcular par de filas en service
+    if(service.Rows.Count%2==0)
+    {
+        //Obtenemos la mitad del numero
+        limit = service.Rows.Count / 2;
+    }
+    else
+    {
+        float aux = service.Rows.Count / 2 + 0.5f;
+        if (int.TryParse(aux.ToString(), out int number))
+            limit = number;
+    }
+    Console.WriteLine($"Index: {limit.ToString()}");
+}
+<link rel="stylesheet" href="~/css/indexstyle.css" asp-append-version="true"/>
+<div class="text-center">
+    <section class="sections__works__all sections_works">
+        <div class="works__part works__part1">
+            <div class="view__office">
+                <div class="filter filter3 black__background">
+                    <p class="textInfo text-white">W10 + Office</p>
+                    <p class="decription__service text-white">
+                        Las instalaciones de Windows 10 y Windows 11 vienen con un paquete de aplicaciones comunes ya instaladas,
+                        para que puedas usarlas lo antes posible y ahorrar tiempo.
+                        Estas aplicaciones incluyen Google Chrome, VLC, WinRAR y mas. Además, también viene con el paquete de Office (Excel, Word, etc.).
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="works__part works__part2">
+            <div class="service before__service">
+                <div class="filter filter4 ">
+                    <p class="text__service text-white">Antes</p>
+                </div>
+            </div>
+            <div class="service after__service">
+                <div class="filter filter4 ">
+                    <p class="text__service text-white">Despues<p>
+                </div>
+            </div>
+        </div>
+        <div class="works__part works__part3">
+            <h2 style="text-align:center; display:inline-block; width:68%; margin:auto;">Precios</h2>
+            <div class="price__content">
+                <ul class="price__list">
+                    @*Acordarse de cargarlo con mysql*@
+                    @for(int i = 0; i<limit; i++)
+                    {
+                        <li class="price__item"><label class="price__text">@service.Rows[i]["ServiceName"].ToString(): @service.Rows[i]["ServicePrice"].ToString()</label></li>
+                    }
+                </ul>
+                <ul class="price__list price__list2">
+                    @for(int i = limit; i<service.Rows.Count; i++)
+                    {
+                        <li class="price__item"><label class="price__text">@service.Rows[i]["ServiceName"].ToString(): @service.Rows[i]["ServicePrice"].ToString()</label></li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section class="turns_sections">
+        <div class="divs__turns div__turns__title">
+            <h2 class="subtitle__turns">
+                No dudes en contactarte a través de WhatsApp:
+            </h2>
+        </div>
+        <div class="divs__turns div__turns__links">
+            <a class="btn__turn" id="btnTurn" role="button" href="https://wa.me/5493518187224" target="_blank" rel="noopener noreferrer">Tel: 3518187224</a>
+            @* <a class="btn__turn" role="button" href="https://www.faurtech.com/descargas/CV.pdf" download="CV.pdf">Descargar CV</a> *@
+        </div>
+    </section>
+    <section class="main_sections sections_presentation">
+        <div class="div__model__one presentation__divs__content">
+            <div class="div__model div__weoffer">
+                <h2 class="subtitle__presentation">¿Mis Conocimientos?</h2>
+                <p class="lists__presentation lists__offer">
+                    Soy Joaquin Arce desarollador web y de aplicaciones de escritorio, trabajo con <strong>C# ASP.NET core, JavaScript, HTML Y CSS.</strong>
+                    Como aficionado de la programacion me gustan los <strong>retos</strong>, <strong>resolver problemas</strong> y poder ayudarte a plasmar tus <strong>ideas</strong>.
+                </p>
+            </div>
+            <div class="div__model div__WhyChooseUs">
+                <h2 class="subtitle__presentation">Extras:</h2>
+                <ul class="lists__presentation__ul">
+                    <li class="li__presentation">
+                        <img src="~/MuoqaImages/WindowsLinux.png" class="img__software_hardware">
+                        <div class="li__presentation__container">
+                            <h3 class="subtitle2__presentation">Instalacion de sistemas operativos</h3>
+                            <p>Windows y Linux</p>
+                        </div>
+                    </li>
+                    <li class="li__presentation">
+                        <img src="~/MuoqaImages/Mantenimiento.png" class="img__software_hardware" />
+                        <div class="li__presentation__container">
+                            <h3 class="subtitle2__presentation">Mantenimiento</h3>
+                            <p>Actualizar y limpiar tu noteboock o pc</p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section class="sections_iconsImg">
+        <div class="div__model__one model__one__part2">
+            <div class="view_icons">
+                <div class="filter filter2 black__background">
+                    <img src="~/MuoqaImages/csharp.png" class="img__lenguage" />
+                    <img src="~/MuoqaImages/javascript.png" class="img__lenguage" />
+                    <img src="~/MuoqaImages/htmllogo.png" class="img__lenguage" />
+                    <img src="~/MuoqaImages/csslogo.png" class="img__lenguage" />
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

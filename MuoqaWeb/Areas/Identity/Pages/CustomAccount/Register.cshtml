@@ -1,0 +1,36 @@
+﻿@page
+@model MuoqaWeb.Areas.Identity.Pages.CustomAccount.RegisterModel
+@{
+    @using Microsoft.AspNetCore.Mvc.TagHelpers
+    var urlWeb = Model.urlWeb;
+    var urlReg = Url.Action("RegisterUser", "Account");
+    var token = Model.Token;
+}
+<link rel="stylesheet" href="~/css/accountstyle.css" asp-append-version="true"/>
+<form class="registration__form" id="registrationForm">
+    <div class="parent__container">
+        <div class="form__container form__container1">
+            <label class="form__tags" for="username">Usuario</label>
+            <input class="form__inputs" type="text" id="username" name="UserName" maxlength="30" placeholder="Maximo" required />
+            <label class="form__tags" for="useremail">Email</label>
+            <input class="form__inputs" type="email" id="useremail" name="Email" maxlength="50" placeholder="maximo123@gmail.com" required/>
+            <label class="form__tags" for="userpassword">Contraseña</label>
+            <input class="form__inputs" type="password" id="userpassword" name="UserPassword" maxlength="30" placeholder="Contraseña segura" required/>
+            <label class="form__tags" for="userpasswordr">Confirmar contraseña</label>
+            <input class="form__inputs" type="password" id="userpasswordr" name="UserPasswordR" maxlength="30" placeholder="Contraseña segura" required />
+        </div>
+        <div class="form__container form__container2">
+            <button class="form__button" id="formButton" type="submit">Registrarse</button>
+        </div>
+    </div>
+    <p class="error__text" id="errorText"></p>
+    <div class="form__links">
+        <a class="login__link" asp-area="Identity" asp-page="/CustomAccount/Login">Iniciar sesión</a>
+    </div>
+</form>
+<script>
+    var urlWeb = "@urlWeb";
+    var urlReg = "@urlReg";
+    var token = "@token";
+</script>
+<script src="~/js/AccountScripts/AccountReg.js" asp-append-version="true"></script>

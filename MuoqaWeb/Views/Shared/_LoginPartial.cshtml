@@ -1,0 +1,74 @@
+﻿@using Microsoft.Extensions.Caching.Memory
+@using MuoqaIdentidades
+@inject IMemoryCache MemoryCache
+@inject IConfiguration Config
+@{
+    string urlLogout = Url.Action("UnLogUser", "Account");
+    string cacheKey = "loggedInUser";
+    string urlWeb = Config["URLDependingOnEnvironment"];
+    var token = Context.RequestServices
+            .GetService<Microsoft.AspNetCore.Antiforgery.IAntiforgery>()
+            .GetAndStoreTokens(Context);
+    string Token = token.RequestToken;
+    AccountLogin getData = new AccountLogin
+            {
+                UserName = "UsuarioDefault"
+            };
+    if (MemoryCache.TryGetValue(cacheKey, out AccountLogin dataoutput))
+    {
+        getData = dataoutput;
+    }
+}
+<ul class="navbar-nav">
+    @if (getData.UserName != "UsuarioDefault" && !string.IsNullOrEmpty(getData.UserName))
+{
+    <li class="nav-item" >
+            <a class="nav-link text-white" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hola @getData.UserName!</a>@*Probar si funciona*@
+    </li>
+    <li class="nav-item">
+        <form  class="form-inline" id="formLogout">
+                <button type="submit" id="unLogBtn"class="nav-link btn btn-link text-white">Salir</button>
+        </form>
+    </li>
+}
+else
+{
+    <li class="nav-item">
+            <a class="nav-link text-white" asp-area="Identity" asp-page="/CustomAccount/Register">Registrarse</a>
+    </li>
+    <li class="nav-item">
+            <a class="nav-link text-white" asp-area="Identity" asp-page="/CustomAccount/Login">Iniciar sesión</a>
+    </li>
+}
+</ul>
+<script>
+    var urlLogout = "@urlLogout";
+    var urlWeb = "@urlWeb";
+    var token = "@Token";
+</script>
+<script src="~/js/AccountScripts/AccountLogout.js" asp-append-version="true"></script>
+
+@* @inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager *@
+@* <ul class="navbar-nav">
+    @if (SignInManager.IsSignedIn(User))
+    {
+        <li class="nav-item">
+            <a class="nav-link text-white" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @User.Identity?.Name!</a>
+        </li>
+        <li class="nav-item">
+            <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                <button type="submit" class="nav-link btn btn-link text-white">Logout</button>
+            </form>
+        </li>
+    }
+    else
+    {
+        <li class="nav-item">
+            <a class="nav-link text-white" asp-area="Identity" asp-page="/CustomAccount/Register">Register</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-white" asp-area="Identity" asp-page="/CustomAccount/Login">Login</a>
+        </li>
+    }
+</ul> *@

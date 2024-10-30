@@ -1,0 +1,12 @@
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaIdentidades\bin\Release\net8.0\MuoqaIdentidades.deps.json
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaIdentidades\bin\Release\net8.0\MuoqaIdentidades.dll
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaIdentidades\bin\Release\net8.0\MuoqaIdentidades.pdb
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaIdentidades\obj\Release\net8.0\MuoqaIdentidades.csproj.AssemblyReference.cache
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaIdentidades\obj\Release\net8.0\MuoqaIdentidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaIdentidades\obj\Release\net8.0\MuoqaIdentidades.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaIdentidades\obj\Release\net8.0\MuoqaIdentidades.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaIdentidades\obj\Release\net8.0\MuoqaIdentidades.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaIdentidades\obj\Release\net8.0\MuoqaIdentidades.dll
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaIdentidades\obj\Release\net8.0\refint\MuoqaIdentidades.dll
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaIdentidades\obj\Release\net8.0\MuoqaIdentidades.pdb
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaIdentidades\obj\Release\net8.0\ref\MuoqaIdentidades.dll

@@ -1,0 +1,224 @@
+﻿.filter {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.filter3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    padding:10px;
+}
+.view__office {
+    margin: auto;
+    height: 25em;
+    width: 75%;
+    position: relative;
+    border-radius: 10px;
+}
+.view__office::before {
+    content: "";
+    background: url(../MuoqaImages/OfficeInstalacion.png) #0000;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    inset: 0;
+    z-index: -10;
+    border-radius: 10px;
+}
+.textInfo {
+    display: inline-block;
+    font-size: 2em;
+    font-weight: 600;
+}
+.decription__service {
+    display: inline-block;
+    opacity: 0;
+    transition: opacity .3s ease;
+    font-size: 0.9em;
+}
+.filter3:hover .decription__service {
+    opacity:1;
+}
+.works__part2 {
+    width: 75%;
+    display:flex;
+    margin:auto;
+    margin-top:1em;
+    justify-content:space-between;
+}
+.service {
+    width: 49%;
+    height: 15em;
+    border-radius: 10px;
+    position: relative;
+    padding: 10px;
+}
+.before__service::before {
+    content: "";
+    background: url(../MuoqaImages/sucio.jpg) #0000;
+    background-size: cover;
+    position: absolute;
+    inset: 0;
+    z-index: -10;
+    border-radius: 10px;
+}
+.after__service::before {
+    content: "";
+    background: url(../MuoqaImages/limpio.jpg) #0000;
+    background-size: cover;
+    position: absolute;
+    inset: 0;
+    z-index: -10;
+    border-radius: 10px;
+}
+.text__service{
+    font-size:1.3em;
+}
+.price__content {
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    width: 75%;
+}
+
+.price__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width:49%;
+}
+
+.price__item {
+    text-align: start;
+    margin-top: .5em;
+}
+
+.price__text {
+    display: inline-block;
+    width: 100%
+}
+.turns_sections{
+    background: linear-gradient(to bottom,#002, #001);
+    color:#fff;
+    height:auto;
+    margin-top:3em;
+    border-radius:3px;
+    padding:2em 1em;
+    box-sizing:border-box;
+}
+.divs__turns {
+    margin:auto;
+    width: 75%;
+    text-align: start;
+    display: flex;
+    justify-content: flex-start;
+    align-items:center;
+}
+.btn__turn {
+}
+.btn__turn:link{
+    color:#fff;
+    text-decoration:none;
+}
+.btn__turn:visited{
+    text-decoration:none;
+    color:#fff;
+}
+.btn__turn:hover {
+    color:#0d2;
+}
+.main_sections {
+    width: 75%;
+    margin: auto;
+}
+.div__model__one {
+    margin:2.5em 0;
+    display: flex;
+    justify-content:space-between;
+}
+.lists__presentation__ul{
+    list-style:none;
+    padding:0;
+}
+.li__presentation{
+    display:flex;
+}
+.div__model__one {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.div__model {
+    width: 49%;
+    text-align: start;
+}
+.img__software_hardware{
+    width:1.5em;
+    height:1.5em;
+}
+.img__lenguage{
+    width:4em;
+    margin:0 1em;
+}
+.view_icons{
+    width:75%;
+    height:20em;
+    position:relative;
+    margin:auto;
+}
+.filter2 {
+    z-index: 10;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.view_icons::before {
+    content: "";
+    background: url(../MuoqaImages/CODIGO.png) fixed #0000;
+    background-size: cover;
+    position: absolute;
+    inset: 0;
+    z-index: -10;
+    border-radius: 10px;
+}
+
+@media(max-width:430px) {
+    .img__lenguage {
+        width: 2.8em;
+    }
+    .works__part{/*HOLAAAAAAAAAAA*/
+        flex-direction:column;
+        justify-content:center;
+    }
+    .service {
+        width:100%;
+        height: 10em;
+        margin-bottom:1em;
+    }
+    .view__office{
+        height:20em
+    }
+    .div__model__one {
+        flex-direction:column;
+    }
+    .div__model {
+        width:100%;
+    }
+    .view_icons{
+        height:15em;
+    }
+    .decription__service {
+        font-size:0.7em;
+    }
+}
+
+@media(max-width:375px){
+    .img__lenguage{
+        width:2em;
+    }
+}
