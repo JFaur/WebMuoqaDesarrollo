@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA6B040-AF90-4615-9A14-A5AFF07C4829}|MuoqaWeb\\MuoqaWeb.csproj|c:\\users\\joaquin\\desktop\\proyectos\\trabajo\\muoqa\\muoqaweb\\muoqaweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AA6B040-AF90-4615-9A14-A5AFF07C4829}|MuoqaWeb\\MuoqaWeb.csproj|solutionrelative:muoqaweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E760CA9-9ADC-4596-A4FA-433214419B53}|MuoqaIdentidades\\MuoqaIdentidades.csproj|c:\\users\\joaquin\\desktop\\proyectos\\trabajo\\muoqa\\muoqaweb\\muoqaidentidades\\servicesprices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E760CA9-9ADC-4596-A4FA-433214419B53}|MuoqaIdentidades\\MuoqaIdentidades.csproj|solutionrelative:muoqaidentidades\\servicesprices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA6B040-AF90-4615-9A14-A5AFF07C4829}|MuoqaWeb\\MuoqaWeb.csproj|c:\\users\\joaquin\\desktop\\proyectos\\trabajo\\muoqa\\muoqaweb\\muoqaweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AA6B040-AF90-4615-9A14-A5AFF07C4829}|MuoqaWeb\\MuoqaWeb.csproj|solutionrelative:muoqaweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA6B040-AF90-4615-9A14-A5AFF07C4829}|MuoqaWeb\\MuoqaWeb.csproj|c:\\users\\joaquin\\desktop\\proyectos\\trabajo\\muoqa\\muoqaweb\\muoqaweb\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AA6B040-AF90-4615-9A14-A5AFF07C4829}|MuoqaWeb\\MuoqaWeb.csproj|solutionrelative:muoqaweb\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B135BE8B-3C9C-454E-8584-C4FA1F64409A}|MuoqaBackend\\MuoqaBackend.csproj|c:\\users\\joaquin\\desktop\\proyectos\\trabajo\\muoqa\\muoqaweb\\muoqabackend\\tobd\\updateprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B135BE8B-3C9C-454E-8584-C4FA1F64409A}|MuoqaBackend\\MuoqaBackend.csproj|solutionrelative:muoqabackend\\tobd\\updateprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA6B040-AF90-4615-9A14-A5AFF07C4829}|MuoqaWeb\\MuoqaWeb.csproj|c:\\users\\joaquin\\desktop\\proyectos\\trabajo\\muoqa\\muoqaweb\\muoqaweb\\wwwroot\\css\\indexstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3AA6B040-AF90-4615-9A14-A5AFF07C4829}|MuoqaWeb\\MuoqaWeb.csproj|solutionrelative:muoqaweb\\wwwroot\\css\\indexstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA6B040-AF90-4615-9A14-A5AFF07C4829}|MuoqaWeb\\MuoqaWeb.csproj|c:\\users\\joaquin\\desktop\\proyectos\\trabajo\\muoqa\\muoqaweb\\muoqaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AA6B040-AF90-4615-9A14-A5AFF07C4829}|MuoqaWeb\\MuoqaWeb.csproj|solutionrelative:muoqaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA6B040-AF90-4615-9A14-A5AFF07C4829}|MuoqaWeb\\MuoqaWeb.csproj|c:\\users\\joaquin\\desktop\\proyectos\\trabajo\\muoqa\\muoqaweb\\muoqaweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3AA6B040-AF90-4615-9A14-A5AFF07C4829}|MuoqaWeb\\MuoqaWeb.csproj|solutionrelative:muoqaweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA6B040-AF90-4615-9A14-A5AFF07C4829}|MuoqaWeb\\MuoqaWeb.csproj|c:\\users\\joaquin\\desktop\\proyectos\\trabajo\\muoqa\\muoqaweb\\muoqaweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3AA6B040-AF90-4615-9A14-A5AFF07C4829}|MuoqaWeb\\MuoqaWeb.csproj|solutionrelative:muoqaweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MuoqaWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MuoqaWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T15:48:45.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdatePrice.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaBackend\\ToBD\\UpdatePrice.cs",
+              "RelativeDocumentMoniker": "MuoqaBackend\\ToBD\\UpdatePrice.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaBackend\\ToBD\\UpdatePrice.cs",
+              "RelativeToolTip": "MuoqaBackend\\ToBD\\UpdatePrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:57:12.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicesPrices.cs",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaIdentidades\\ServicesPrices.cs",
+              "RelativeDocumentMoniker": "MuoqaIdentidades\\ServicesPrices.cs",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaIdentidades\\ServicesPrices.cs",
+              "RelativeToolTip": "MuoqaIdentidades\\ServicesPrices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:55:59.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MuoqaWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "MuoqaWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T15:45:42.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "MuoqaWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "MuoqaWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T15:44:57.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "indexstyle.css",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\css\\indexstyle.css",
+              "RelativeDocumentMoniker": "MuoqaWeb\\wwwroot\\css\\indexstyle.css",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\css\\indexstyle.css",
+              "RelativeToolTip": "MuoqaWeb\\wwwroot\\css\\indexstyle.css",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAMEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T18:35:19.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "MuoqaWeb\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "MuoqaWeb\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T14:55:23.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MuoqaWeb\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MuoqaWeb\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-28T23:22:12.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MuoqaWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MuoqaWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T23:18:41.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

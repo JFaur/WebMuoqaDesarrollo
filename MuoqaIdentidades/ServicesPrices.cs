@@ -13,5 +13,6 @@ namespace MuoqaIdentidades
         public int? ServiceId { get; set; }
         public string ServiceName { get; set; }
         public string ServicePrice { get; set; }
+        public string ServiceActive { get; set; }
     }
 }

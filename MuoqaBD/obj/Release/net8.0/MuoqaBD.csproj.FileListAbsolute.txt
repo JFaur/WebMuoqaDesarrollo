@@ -13,3 +13,4 @@ C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaBD\obj\Release\ne
 C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaBD\obj\Release\net8.0\refint\MuoqaBD.dll
 C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaBD\obj\Release\net8.0\MuoqaBD.pdb
 C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaBD\obj\Release\net8.0\ref\MuoqaBD.dll
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaBD\obj\Release\net8.0\MuoqaBD.sourcelink.json

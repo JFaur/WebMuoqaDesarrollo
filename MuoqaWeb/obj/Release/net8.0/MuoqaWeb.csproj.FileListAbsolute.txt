@@ -172,3 +172,4 @@ C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaWeb\obj\Release\n
 C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaWeb\obj\Release\net8.0\ref\MuoqaWeb.dll
 C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaWeb\bin\Release\net8.0\appsettingsbackend.Development.json
 C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaWeb\bin\Release\net8.0\appsettingsbackend.json
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaWeb\obj\Release\net8.0\MuoqaWeb.sourcelink.json

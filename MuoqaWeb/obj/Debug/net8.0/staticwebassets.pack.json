@@ -1,0 +1,509 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MuoqaWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MuoqaWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\Montserrat-Italic-VariableFont_wght.ttf",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\Montserrat-Italic-VariableFont_wght.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\Montserrat-VariableFont_wght.ttf",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\Montserrat-VariableFont_wght.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\README.txt",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\static\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\static\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\static\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\static\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\static\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\static\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\static\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\static\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\static\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\static\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\static\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\static\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\static\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\static\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\static\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\static\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\static\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\static\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\static\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\static\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\static\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\static\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\static\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\static\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\static\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\static\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\static\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\static\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\static\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\static\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\static\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\static\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\static\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\static\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaFuentes\\Montserrat\\static\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\MuoqaFuentes\\Montserrat\\static\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\CODIGO.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\CODIGO.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\Casa.jfif",
+      "PackagePath": "staticwebassets\\MuoqaImages\\Casa.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\Casa.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\Casa.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\IMG-20240821-WA0080.jpg",
+      "PackagePath": "staticwebassets\\MuoqaImages\\IMG-20240821-WA0080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\ImagenEncabezado.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\ImagenEncabezado.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\Logeado.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\Logeado.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\Logo.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\Mantenimiento.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\Mantenimiento.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\ModeloTra.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\ModeloTra.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\ModeloTraBlanco.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\ModeloTraBlanco.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\Modelos.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\Modelos.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\OfficeInstalacion.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\OfficeInstalacion.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\Proyectos.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\Proyectos.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\Resta.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\Resta.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\Suma.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\Suma.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\WindowsLinux.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\WindowsLinux.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\bacb3736-0c76-49b2-9600-260b620d3fe0.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\bacb3736-0c76-49b2-9600-260b620d3fe0.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\csharp.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\csharp.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\csslogo.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\csslogo.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\cv.avif",
+      "PackagePath": "staticwebassets\\MuoqaImages\\cv.avif"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\cv.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\cv.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\favicon.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\htmllogo.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\htmllogo.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\imagen de menu.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\imagen de menu.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\instagram.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\javascript.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\javascript.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\limpio.jpg",
+      "PackagePath": "staticwebassets\\MuoqaImages\\limpio.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\mail.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\mail.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\perfil.jpg",
+      "PackagePath": "staticwebassets\\MuoqaImages\\perfil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\sucio.jpg",
+      "PackagePath": "staticwebassets\\MuoqaImages\\sucio.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\tabla_materias_universidad.xlsx",
+      "PackagePath": "staticwebassets\\MuoqaImages\\tabla_materias_universidad.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\tijeras2.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\tijeras2.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\MuoqaImages\\whatsapp.png",
+      "PackagePath": "staticwebassets\\MuoqaImages\\whatsapp.png"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\css\\MuoqaFonts.css",
+      "PackagePath": "staticwebassets\\css\\MuoqaFonts.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\css\\accountstyle.css",
+      "PackagePath": "staticwebassets\\css\\accountstyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\css\\indexstyle.css",
+      "PackagePath": "staticwebassets\\css\\indexstyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\js\\AccountScripts\\AccountLog.js",
+      "PackagePath": "staticwebassets\\js\\AccountScripts\\AccountLog.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\js\\AccountScripts\\AccountLogout.js",
+      "PackagePath": "staticwebassets\\js\\AccountScripts\\AccountLogout.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\js\\AccountScripts\\AccountReg.js",
+      "PackagePath": "staticwebassets\\js\\AccountScripts\\AccountReg.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Joaquin\\Desktop\\Proyectos\\Trabajo\\Muoqa\\MuoqaWeb\\MuoqaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MuoqaWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MuoqaWeb.props",
+      "PackagePath": "build\\MuoqaWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MuoqaWeb.props",
+      "PackagePath": "buildMultiTargeting\\MuoqaWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MuoqaWeb.props",
+      "PackagePath": "buildTransitive\\MuoqaWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,38 @@
+﻿/* Estilos para el formulario en columnas */
+.parent__container {
+    display: flex;
+    justify-content: space-between; /* Espacio entre los contenedores */
+    align-items: flex-end; /* Alineación superior */
+}
+
+/* Ajuste opcional para los divs internos */
+.form__container {
+    width: 48%; /* Ajusta el ancho si necesitas más espacio entre los contenedores */
+}
+.form__container1 {
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+}
+.form__tags{
+    margin: 10px 0;
+}
+.form__inputs {
+    width: 90%;
+    border-style: solid;
+    border-radius: 3px;
+}
+.form__button{
+    color:#fff;
+    background-color:#002;
+    border: 3px solid #002;
+    border-radius:3px;
+}
+.error__text{
+    margin-top:15px;
+    color:#d00;
+    font-size:0.9em;
+}
+.login__link{
+    cursor:pointer;
+}

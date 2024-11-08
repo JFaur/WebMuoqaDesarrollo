@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\Publicar</_PublishTargetUrl>
+    <History>True|2024-10-30T21:53:04.3003881Z||;True|2024-10-30T18:13:24.3056847-03:00||;False|2024-10-30T18:12:57.4336153-03:00||;False|2024-10-30T18:08:03.6190904-03:00||;False|2024-10-30T18:07:32.6460114-03:00||;True|2024-10-28T00:02:05.7639002-03:00||;True|2024-10-27T23:42:39.1279910-03:00||;True|2024-10-26T23:03:36.8363654-03:00||;True|2024-10-26T22:42:53.9630898-03:00||;True|2024-10-26T21:28:03.4947470-03:00||;False|2024-10-26T21:27:23.0311721-03:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

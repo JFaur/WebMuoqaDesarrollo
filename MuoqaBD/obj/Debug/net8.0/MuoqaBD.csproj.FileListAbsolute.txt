@@ -1,0 +1,16 @@
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaBD\bin\Debug\net8.0\MuoqaBD.deps.json
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaBD\bin\Debug\net8.0\MuoqaBD.dll
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaBD\bin\Debug\net8.0\MuoqaBD.pdb
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaBD\bin\Debug\net8.0\MuoqaIdentidades.dll
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaBD\bin\Debug\net8.0\MuoqaIdentidades.pdb
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaBD\obj\Debug\net8.0\MuoqaBD.csproj.AssemblyReference.cache
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaBD\obj\Debug\net8.0\MuoqaBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaBD\obj\Debug\net8.0\MuoqaBD.AssemblyInfoInputs.cache
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaBD\obj\Debug\net8.0\MuoqaBD.AssemblyInfo.cs
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaBD\obj\Debug\net8.0\MuoqaBD.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaBD\obj\Debug\net8.0\MuoqaBD.csproj.Up2Date
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaBD\obj\Debug\net8.0\MuoqaBD.dll
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaBD\obj\Debug\net8.0\refint\MuoqaBD.dll
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaBD\obj\Debug\net8.0\MuoqaBD.pdb
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaBD\obj\Debug\net8.0\ref\MuoqaBD.dll
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaBD\obj\Debug\net8.0\MuoqaBD.sourcelink.json

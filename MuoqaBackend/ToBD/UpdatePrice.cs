@@ -19,9 +19,13 @@ namespace MuoqaBackend.ToBD
         {
             try
             {
-                List<ServicesPrices> list = _conn.ServicesPrices.ToList();
-                DataTable data = ConvertToData(list);
-                return data;
+                List<ServicesPrices> list = _conn.ServicesPrices.Where(u => u.ServiceActive == "YES").ToList();
+                if (list.Count > 0)
+                {
+                    DataTable data = ConvertToData(list);
+                    return data;
+                }
+                return new DataTable();
             }
             catch (Exception ex)
             {

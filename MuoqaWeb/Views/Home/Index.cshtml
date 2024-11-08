@@ -14,9 +14,9 @@
     }
     else
     {
-        float aux = service.Rows.Count / 2 + 0.5f;
-        if (int.TryParse(aux.ToString(), out int number))
-            limit = number;
+        int aux = service.Rows.Count / 2;
+        limit = aux +1;
+        Console.WriteLine($"Index: {aux} Y {limit} Y {service.Rows.Count}");
     }
     Console.WriteLine($"Index: {limit.ToString()}");
 }

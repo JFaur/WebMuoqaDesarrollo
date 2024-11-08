@@ -10,3 +10,4 @@ C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaIdentidades\obj\R
 C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaIdentidades\obj\Release\net8.0\refint\MuoqaIdentidades.dll
 C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaIdentidades\obj\Release\net8.0\MuoqaIdentidades.pdb
 C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaIdentidades\obj\Release\net8.0\ref\MuoqaIdentidades.dll
+C:\Users\Joaquin\Desktop\Proyectos\Trabajo\Muoqa\MuoqaWeb\MuoqaIdentidades\obj\Release\net8.0\MuoqaIdentidades.sourcelink.json

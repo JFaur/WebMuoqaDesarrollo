@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MuoqaBD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ad51aa262043c6722a375fd638108f937b162c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MuoqaBD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MuoqaBD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
